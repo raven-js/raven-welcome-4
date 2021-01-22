@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": [],
+        "ACTIVITY_TEXT": "ses botu yaptırmak için Râven#2014",
+        "GUILD_ID": "798520489488154625",
+        "VOICE_CHANNEL": "801949315484090398",
+        "MIN_STAFF_ROLE": "798529706135781418"
+    },
+    "FILES": {
+        "WELCOME": "default_files/welcome-voice.mp3",
+        "STAFF": "default_files/staffvoice.mp3"
+    },
+    "TOKEN": "TOKEN GİRİLİCEK"
+}
